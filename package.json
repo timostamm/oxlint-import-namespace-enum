@@ -1,0 +1,16 @@
+{
+  "name": "oxlint-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "oxlint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "oxlint": "^0.16.5",
+    "typescript": "^5.8.3"
+  }
+}
